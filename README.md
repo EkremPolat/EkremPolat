@@ -4,6 +4,11 @@
 
 - 📫 How to reach me **me@polatekrem.com**
 
+- Check out our <a href="https://aiarticlewriter.org/" target="_blank">Article Writer</a> platform!
+- Check out our <a href="https://chromewebstore.google.com/detail/chat2docs/badapebhjdmiohmfigjjefpfnnilghgf" target="_blank"> Chat2Docs</a> Chrome Extension!
+  
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ekrem-polat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekrem-polat" height="30" width="40" /></a>
