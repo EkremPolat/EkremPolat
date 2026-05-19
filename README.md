@@ -1,12 +1,11 @@
 
 <h1 align="center">Hello 👋, I'm Ekrem POLAT</h1>
-<h3 align="center">I am currently a Computer Science MSc. Student at Bilkent University</h3>
+<h3 align="center">I am Computer Science MSc. Student @ Bilkent University and Founder @ Rolintex</h3>
 
 - 📫 How to reach me **me@polatekrem.com**
 
-- Check out our <a href="https://aiarticlewriter.org/" target="_blank">Article Writer</a> platform!
-- Check out our <a href="https://chromewebstore.google.com/detail/chat2docs/badapebhjdmiohmfigjjefpfnnilghgf" target="_blank"> Chat2Docs</a> Chrome Extension!
-  
+- Check out our <a href="https://rolintex.com/" target="_blank">page!</a>
+-   
 </p>
 
 <h3 align="left">Connect with me:</h3>
