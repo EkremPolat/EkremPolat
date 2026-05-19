@@ -5,7 +5,7 @@
 - 📫 How to reach me **me@polatekrem.com**
 
 - Check out our <a href="https://rolintex.com/" target="_blank">page!</a>
--   
+  
 </p>
 
 <h3 align="left">Connect with me:</h3>
