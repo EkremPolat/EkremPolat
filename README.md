@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Ekrem POLAT</h1>
-<h3 align="center">I am Computer Science MSc. Student @ Bilkent University and Founder @ Rolintex</h3>
+<h3 align="center">I am Founder @ Rolintex and MSc. Student @ Bilkent University!</h3>
 
 - 📫 How to reach me **me@polatekrem.com**
 
